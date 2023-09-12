@@ -6,9 +6,8 @@
 - 💬 Ask me about anything here
 
 
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanovictor&show_icons=true&theme=dark)](https://github.com/alanovictor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanovictor&langs_count=8&layout=compact&theme=dark)](https://github.com/alanovictor)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanovictor&show_icons=true&theme=transparent&hide_border=true&title_color=60de86&icon_color=60be86)](https://github.com/alanovictor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanovictor&langs_count=5&theme=transparent&hide_border=true&title_color=60be86)](https://github.com/alanovictor)
 
 
 <div style="display: inline_block"><br>
