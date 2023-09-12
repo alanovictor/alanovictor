@@ -16,5 +16,3 @@
   <img align="center" alt="FireBase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
 
-
-<!--
