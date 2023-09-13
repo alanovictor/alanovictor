@@ -8,7 +8,7 @@
 - 📨  Send an e-mail to "alanovictor96@gmail.com." <br>
   (Envie um e-mail para "alanovictor96@gmail.com").
 
-[![Victor's GitHub stats](https://github-readme-stats.git-masterrstaa-rickstaa.vercel.app/api?username=alanovictor&show_icons=true&theme=transparent&hide_border=true&title_color=60de86&icon_color=60be86&line_height=27)](https://github.com/alanovictor) 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanovictor&show_icons=true&theme=transparent&hide_border=true&title_color=60de86&icon_color=60be86&line_height=27)](https://github.com/alanovictor) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanovictor&langs_count=5&theme=transparent&hide_border=true&title_color=60be86)](https://github.com/alanovictor)
 
