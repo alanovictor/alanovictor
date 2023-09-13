@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/*.js": {
+    "https://github.com/anuraghazra/github-readme-stats/tree/master/api/*.js": {
       "memory": 128,
       "maxDuration": 30
     }
