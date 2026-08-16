@@ -5,8 +5,8 @@
 - 📞   Contact me on whatsapp <a href="https://api.whatsapp.com/send?phone=5551995383998&text=Ol%C3%A1%20Victor!%20Vim%20atrav%C3%A9s%20do%20seu%20github.%0A(Hello%20Victor!%20I%20came%20through%20your%20github.">here</a>.<br>
       (Entre em contato comigo via whatsapp <a href="https://api.whatsapp.com/send?phone=5551995383998&text=Ol%C3%A1%20Victor!%20Vim%20atrav%C3%A9s%20do%20seu%20github.%0A(Hello%20Victor!%20I%20came%20through%20your%20github.)">aqui</a>).
 
-- 📨  Send an e-mail to "alanovictor96@gmail.com." <br>
-  (Envie um e-mail para "alanovictor96@gmail.com").
+- 📨  Send an e-mail to "alanovictor.adm@gmail.com" <br>
+  (Envie um e-mail para "alanovictor.adm@gmail.com").
 
 
 <div style="display: inline_block"><br>
